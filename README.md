@@ -1,6 +1,6 @@
 # 🎲 Online Ludo Game
 
-A free, web-based implementation of the classic Ludo board game developed by Subham Kumar Rahar.
+A free, web-based implementation of the classic Ludo board game 
 
 
 ## 📋 Overview
@@ -51,20 +51,11 @@ This project is a lightweight, accessible online version of the traditional Ludo
 - JavaScript
 - Media elements (audio/video) for enhanced gameplay
 
-## 📥 Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/Subhamk2004/ludo-game.git
-   ```
-
-2. Open `index.html` in any modern web browser
-
-3. No additional dependencies or installations required!
 
 ## 🌐 Online Access
 
-Play directly from GitHub Pages: [Online Ludo Game](https://subhamk2004.github.io/Ludo-by-Subham-Kumar/)
+Play directly from GitHub Pages: [Online Ludo Game](https://kbvkishore.github.io/Ludo-loophole/)
 
 ## 🎯 Game Rules
 
@@ -92,7 +83,7 @@ The game includes several audio elements to enhance gameplay:
 
 ## 👨‍💻 Developer
 
-Developed by **Subham Kumar Rahar**
+Developed by **KBV Kishore**
 
 ## 🙏 Acknowledgements
 
